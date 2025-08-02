@@ -1,5 +1,18 @@
-Halo! Nama saya Muhammad Nafi’ Nur Hadi Latif, saya siswa lulusan SMP Islam Sabilillah Malang. Saya memiliki minat besar di bidang coding, teknologi, dan kompetisi akademik, khususnya Matematika dan IT.
-Portofolio ini berisi kumpulan proyek coding yang saya kerjakan secara mandiri maupun bersama tim, serta sertifikat penghargaan yang saya raih selama SMP.
-Tujuan saya membuat portofolio ini adalah untuk menunjukkan kemampuan teknis saya melalui proyek nyata dan komitmen belajar melalui berbagai lomba dan pelatihan.
-Saya berharap portofolio ini bisa menjadi langkah awal untuk melanjutkan pendidikan di bidang teknologi dan mengikuti lebih banyak kompetisi di masa depan.
-Terima kasih telah melihat portofolio saya!
+# 👋 Halo, saya Muhammad Nafi’ Nur Hadi Latif!
+
+Selamat datang di GitHub saya!  
+Saya adalah siswa lulusan SMP Islam Sabilillah Malang yang suka belajar AI, ikut kompetisi Matematika, dan mengerjakan proyek teknologi kecil-kecilan.
+
+## 📌 Apa saja di sini?
+- Proyek Code: Beberapa program Python sederhana.
+- Sertifikat: Bukti lomba yang pernah saya ikuti.
+
+## 🎯 Tujuan
+Membangun portofolio belajar saya dan membagikannya ke orang lain agar bisa saling belajar.
+
+---
+
+📫 **Hubungi saya:**  
+Jika ingin berdiskusi atau berkolaborasi, bisa DM saya di GitHub atau email: mnafinhl@gmail.com
+
+Terima kasih sudah mampir! 🚀✨
